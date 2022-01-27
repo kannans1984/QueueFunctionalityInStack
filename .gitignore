@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/QueueFunctionalityInStack/v16
+/.vs
+/QueueFunctionalityInStack/.vs/QueueFunctionalityInStack/v16
+/QueueFunctionalityInStack/bin/Debug
+/QueueFunctionalityInStack/obj/Debug
